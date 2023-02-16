@@ -3,7 +3,7 @@
  * main - program that prints side of various types
  * Return: 0 (success)
  */
-int mail(void)
+int main(void)
 { char a;
 	int b;
 	long int c;
